@@ -10,6 +10,11 @@ A comprehensive financial assistant with a React.js web interface that provides 
 - Conversational interface with memory
 - Vector database support for efficient data retrieval
 
+### Example
+[![Watch the video](http://img.youtube.com/vi/1NgxCZrwmW4/0.jpg)](https://youtu.be/1NgxCZrwmW4)
+
+
+
 ## Backend Setup
 1. Install Python dependencies:
    ```bash
