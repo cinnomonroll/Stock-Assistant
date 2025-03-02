@@ -14,6 +14,11 @@ A comprehensive financial assistant with a React.js web interface that provides 
 [![Watch the video](http://img.youtube.com/vi/1NgxCZrwmW4/0.jpg)](https://youtu.be/1NgxCZrwmW4)
 
 
+https://github.com/user-attachments/assets/ba456bde-1183-45f2-937e-17a41dded6cb
+
+
+
+
 
 ## Backend Setup
 1. Install Python dependencies:
